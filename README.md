@@ -31,9 +31,6 @@ Users can switch between Light and Dark Mode via the in-app menu.
 About & Donate Dialogs
 Includes an About popup with version info and branding, plus a Donate dialog with:
 
-“Buy Me a Coffee” support link
-
-“Copy BTC Address” option
 
 
 # Tech Stack
