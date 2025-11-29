@@ -1,4 +1,4 @@
-QuickShare
+# QuickShare
 
 QuickShare is a lightweight Android application designed for fast and secure sharing of personal information.
 Users can store details such as their name, address, phone number, email, and a custom note — all displayed in collapsible sections for privacy. With a single tap, any field (or all expanded fields) can be shared via Android's built-in sharing system.
@@ -6,7 +6,7 @@ Users can store details such as their name, address, phone number, email, and a 
 QuickShare is built for simplicity, privacy, and speed.
 
 
-Features
+# Features
 
 Collapsible Information Fields
 Each section (Name, Address, Phone, Email, and Shared Note) can be expanded or collapsed with a tap, keeping sensitive information hidden until needed.
@@ -36,7 +36,7 @@ Includes an About popup with version info and branding, plus a Donate dialog wit
 “Copy BTC Address” option
 
 
-Tech Stack
+# Tech Stack
 
 Language: Java
 
@@ -51,13 +51,13 @@ Target SDK: Latest available
 Build Tools: Android Studio / Gradle
 
 
-Status
+# Status
 
 QuickShare is currently under active development.
 Additional privacy enhancements, UI refinements, and optional biometric locking may be added in future releases.
 
 
-QuickShare is free software.
+# QuickShare is free software.
 
 You may use, copy, modify, and distribute this software for personal or commercial purposes without restriction.
 
