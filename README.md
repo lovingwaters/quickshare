@@ -51,9 +51,12 @@ QuickShare is currently under active development.
 Additional privacy enhancements, UI refinements, and optional biometric locking may be added in future releases.
 
 
-# QuickShare is free software.
+# License 
 
-You may use, copy, modify, and distribute this software for personal or commercial purposes without restriction.
+QuickShare is free software for personal, non-commercial use.
 
-This software is provided "as-is" without warranty of any kind, express or implied.
-The author assumes no liability for damages arising from the use of this software.
+You are permitted to download, use, modify, and redistribute this software or its source code for personal projects or educational purposes.
+
+Commercial use, resale, or redistribution of modified or unmodified versions of this software for profit is not permitted without explicit written permission from the author.
+
+This software is provided "as is" without warranty of any kind, express or implied. The author assumes no liability for any damages arising from the use of this software.
